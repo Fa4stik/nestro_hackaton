@@ -14,6 +14,7 @@ const Header: React.FC = () => {
             indicatorRef.current.style.left = '0px';
             indicatorRef.current.style.width = '125px';
         }
+        navigate('/enterprises')
     };
 
     const handleSelectedMap = (e: React.MouseEvent<HTMLAnchorElement>) => {
@@ -29,7 +30,7 @@ const Header: React.FC = () => {
         <div className="w-full py-[15px] px-[40px] border-solid border-b-[0.5px]
         border-mainBorder flex text-mainWhite items-center">
             <a className="mr-auto text-3xl font-rubikMd cursor-pointer"
-               onClick={() => navigate('/')}>NESTRO</a>
+               onClick={() => navigate('/')}>OIL DATA</a>
             <div className="ml-auto text-xl flex items-center relative">
                 <a href="#" className="mr-[40px] cursor-pointer"
                    onClick={handleSelectedEntr}

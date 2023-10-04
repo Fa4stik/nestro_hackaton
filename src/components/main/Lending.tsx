@@ -14,7 +14,7 @@ const Lending: React.FC = () => {
             <div className="w-full h-full flex items-center">
                 <div className="flex flex-col ml-[200px] text-[#E9E9EA]">
                     <h1 className="font-rubikMd text-9xl mb-[20px] drop-shadow-lending cursor-default">
-                        NESTRO
+                        OIL DATA
                     </h1>
                     <h3 className="text-6xl w-[1092px] mb-[60px] drop-shadow-lending cursor-default">
                         Создай своё предприятие и управляй его ресурсами

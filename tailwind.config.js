@@ -8,10 +8,10 @@ module.exports = {
         'rubikMd': ['Rubik-Medium', 'system-ui', 'sans-serif'],
       },
       colors: {
-        'mainWhite': '#E9E9EA',
-        'mainGray': '#3B3B3B',
-        'mainBorder': 'rgb(109,109,109,0.4)',
-        'enterprise': '#101418'
+        'mainWhite': '#1a1a1c',
+        'mainGray': '#bdbdbd',
+        'mainBorder': 'rgb(208,178,63)',
+        'enterprise': '#ffffff'
       },
       boxShadow: {
         'lending': '4px 4px 20px rgba(255, 255, 255, 0.4)'

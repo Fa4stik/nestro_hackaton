@@ -7,6 +7,7 @@ import arrowTableDown from './icons/arrowTableDown.png';
 import arrowRight from './icons/arrowRight.png';
 import arrowLeft from './icons/arrowLeft.png';
 import arrowFormulaDown from './icons/arrowFormulaDown.png';
+import csv from './icons/csv.png'
 
 export const BG = {
     main
@@ -19,5 +20,6 @@ export const icons = {
     arrowTableDown,
     arrowRight,
     arrowLeft,
-    arrowFormulaDown
+    arrowFormulaDown,
+    csv
 }
